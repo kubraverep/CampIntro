@@ -23,7 +23,7 @@ namespace CampDegerVeReferansTipler
              değer tipler; bellekte stackte gerçekleşir.
              
              array,class,interface = Referans tip
-             referans tipler; mesela array oluştururken int[] array kısmına kadar stacte,
+             referans tipler; mesela array oluşturrken int[] array kısmına kadar stacte,u
              new dediğinde ise heapte bir alan oluşturur ve stackle heapin bağlantısı adreslerle sağlanır.New dendiğinde adres belirlenir.
              sayılar1=sayilar2 dediğimizde sayılar1'in referans adresi sayılar2 nin referans adresine eşitlenir bu yüzden 999 olur.(pointer)
             */
